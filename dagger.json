@@ -1,14 +1,8 @@
 {
   "name": "local-agent",
-  "engineVersion": "v0.18.8",
+  "engineVersion": "v0.18.10-010101000000-dev-0c61133e7f0f",
   "sdk": {
     "source": "go"
   },
-  "dependencies": [
-    {
-      "name": "alpine-workspace",
-      "source": "alpine-workspace"
-    }
-  ],
   "source": ".dagger"
 }
