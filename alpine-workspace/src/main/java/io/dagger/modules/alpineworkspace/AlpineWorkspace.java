@@ -3,6 +3,7 @@ package io.dagger.modules.alpineworkspace;
 import static io.dagger.client.Dagger.dag;
 
 import io.dagger.client.*;
+import io.dagger.client.exception.*;
 import io.dagger.module.annotation.Function;
 import io.dagger.module.annotation.Object;
 import java.util.List;
